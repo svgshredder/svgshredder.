@@ -4,7 +4,6 @@ Initial Repository
 extreme amateur 
 intrigued and curious 
 constructive sarcasm is appreciated
-be patient
 
 {
     
