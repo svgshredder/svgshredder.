@@ -7,9 +7,9 @@ constructive sarcasm is appreciated
 be patient
 
 {
+    
     (system)"reboot"(system)
                              [initializing]
-
     (system)"Processing"(system)
             *loading <status; @ 0.01%> 
                              [est time-remaining 533k min] &counting...
